@@ -17,6 +17,16 @@
 
     <modules>
 
+        <module>api-gateway</module>
+        <module>discovery-server</module>
+        <module>config-server</module>
+
+        <module>ms-card-payment</module>
+        <module>ms-ach-payment</module>
+        <module>ms-wire-transfer</module>
+        <module>ms-rtp-payment</module>
+        <module>ms-account-management</module>
+
     </modules>
 
     <properties>
