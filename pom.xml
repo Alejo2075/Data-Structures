@@ -17,6 +17,8 @@
 
     <modules>
 
+        <module>card-payment</module>
+
     </modules>
 
     <properties>
