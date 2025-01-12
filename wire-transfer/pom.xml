@@ -13,8 +13,8 @@
     <artifactId>wire-transfer</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 
-    <name></name>
-    <description></description>
+    <name>Wire Transfer</name>
+    <description>Processes wire transfers using the CHIPS network.</description>
 
     <dependencies>
 

@@ -13,8 +13,8 @@
     <artifactId>card-payment</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 
-    <name></name>
-    <description></description>
+    <name>Card Payment</name>
+    <description>Processes payments through card networks like VISA.</description>
 
     <dependencies>
 

@@ -13,8 +13,8 @@
     <artifactId>ach-payment</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 
-    <name></name>
-    <description></description>
+    <name>ACH Payment</name>
+    <description>Handles payment processing using the ACH network.</description>
 
     <dependencies>
 

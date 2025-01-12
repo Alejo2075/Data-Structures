@@ -13,8 +13,8 @@
 	<artifactId>config-server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 
-	<name></name>
-	<description></description>
+	<name>Configuration</name>
+	<description>Manages centralized configuration for the payment system.</description>
 
 	<dependencies>
 
