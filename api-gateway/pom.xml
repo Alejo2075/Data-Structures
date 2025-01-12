@@ -20,7 +20,7 @@
 
         <dependency>
             <groupId>org.springframework.cloud</groupId>
-            <artifactId>spring-cloud-gateway</artifactId>
+            <artifactId>spring-cloud-starter-gateway</artifactId>
             <version>4.2.0</version>
         </dependency>
 
