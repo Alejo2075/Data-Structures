@@ -19,10 +19,16 @@
 
         <module>api-gateway</module>
         <module>discovery-server</module>
+        <module>config-server</module>
 
         <module>card-payment</module>
         <module>ach-payment</module>
         <module>wire-transfer</module>
+
+        <!--
+        <module>rtp-payment</module>
+        <module>account-management</module>
+        -->
 
     </modules>
 
