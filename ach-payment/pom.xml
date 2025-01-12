@@ -10,7 +10,7 @@
     </parent>
 
     <groupId>org.alejo2075</groupId>
-    <artifactId>card-payment</artifactId>
+    <artifactId>ach-payment</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 
     <name></name>
