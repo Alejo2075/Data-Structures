@@ -10,11 +10,11 @@
     </parent>
 
     <groupId>org.alejo2075</groupId>
-    <artifactId>card-payment</artifactId>
+    <artifactId>ms-ach-payment</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 
-    <name>Card Payment</name>
-    <description>Processes payments through card networks like VISA.</description>
+    <name>ACH Payment</name>
+    <description>Handles payment processing using the ACH network.</description>
 
     <dependencies>
 

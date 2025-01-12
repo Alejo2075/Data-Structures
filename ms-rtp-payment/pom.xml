@@ -10,11 +10,11 @@
     </parent>
 
     <groupId>org.alejo2075</groupId>
-    <artifactId>wire-transfer</artifactId>
+    <artifactId>ms-rtp-payment</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 
-    <name>Wire Transfer</name>
-    <description>Processes wire transfers using the CHIPS network.</description>
+    <name>RTP Payment</name>
+    <description>Processes real-time payments using the RTP network.</description>
 
     <dependencies>
 
