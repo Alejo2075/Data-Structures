@@ -1,0 +1,13 @@
+version: '3.7'
+services:
+
+  # INFRASTRUCTURE SERVICES
+
+  # MICROSERVICES
+
+  # DATABASES
+
+  # MONITORING, TRACING & LOGGING
+
+  # OTHER TOOLS
+
