@@ -21,7 +21,6 @@
         <dependency>
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-starter-gateway</artifactId>
-            <version>4.2.0</version>
         </dependency>
         <dependency>
             <groupId>org.springframework.boot</groupId>

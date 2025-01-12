@@ -18,6 +18,7 @@
     <modules>
 
         <module>api-gateway</module>
+        <module>discovery-server</module>
 
         <module>card-payment</module>
         <module>ach-payment</module>
