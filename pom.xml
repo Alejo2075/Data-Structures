@@ -25,10 +25,7 @@
         <module>ms-ach-payment</module>
         <module>ms-wire-transfer</module>
         <module>ms-rtp-payment</module>
-        <!--
-
-        <module>account-management</module>
-        -->
+        <module>ms-account-management</module>
 
     </modules>
 
