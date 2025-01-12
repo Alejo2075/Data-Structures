@@ -19,6 +19,7 @@
 
         <module>card-payment</module>
         <module>ach-payment</module>
+        <module>wire-transfer</module>
 
     </modules>
 
