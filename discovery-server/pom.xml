@@ -13,7 +13,7 @@
 	<artifactId>discovery-server</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 
-	<name>Discovery</name>
+	<name>Discovery Server</name>
 	<description>Provides service discovery and registration for the payment system.</description>
 
 	<dependencies>

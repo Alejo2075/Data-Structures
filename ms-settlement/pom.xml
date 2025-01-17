@@ -13,7 +13,7 @@
     <artifactId>ms-settlement</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 
-    <name></name>
+    <name>Settlement</name>
     <description></description>
 
     <dependencies>

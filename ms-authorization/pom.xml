@@ -13,7 +13,7 @@
     <artifactId>ms-authorization</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 
-    <name></name>
+    <name>Authorization</name>
     <description></description>
 
     <dependencies>

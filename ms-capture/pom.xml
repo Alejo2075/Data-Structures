@@ -13,7 +13,7 @@
     <artifactId>ms-capture</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 
-    <name></name>
+    <name>Capture</name>
     <description></description>
 
     <dependencies>

@@ -24,8 +24,6 @@
         <module>ms-authorization</module>
         <module>ms-capture</module>
         <module>ms-settlement</module>
-        <module>ms-chargeback</module>
-        <module>ms-account-management</module>
 
     </modules>
 
